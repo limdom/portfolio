@@ -3,16 +3,19 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, Machine Learning
 
 ## Education
-- Master of Information and Data Science	| University of California, Berkeley (_December 2023)	 			        		
+- Master of Information and Data Science	| University of California, Berkeley (_December 2023_)	 			        		
 - B.S., Management Studies (Finance & Accounting) | Boston College (_May 2012_)
 
 ## Projects
-### Fine Grained Sentiment Analysis
-
+### Sentiment Analysis Deployment on Azure Kubernetes Service
 
 to be added
 
 
+### Fine Grained Sentiment Analysis
+
+
+to be added
 
 ### Predicting Flight Delays through Machine Learning
 
@@ -20,13 +23,9 @@ to be added
 to be added
 
 
-### Stock price prediction using Machine Learning and Social Media
+### Stock Price Prediction using Machine Learning and Social Media
 
 to be added
-
-### Impact of Household Income on Crime Rate
-
-to be added 
 
 ### Impact of Household Income on Crime Rate
 
