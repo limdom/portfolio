@@ -4,7 +4,7 @@
 
 ## Education
 - Master of Information and Data Science	| University of California, Berkeley (_December 2023_)	 			        		
-- B.S., Management Studies \n (Finance & Accounting) | Boston College (_May 2012_)
+- B.S., Management (Finance & Accounting) | Boston College Carrol School of Management (_May 2012_)
 
 ## Projects
 ### Sentiment Analysis Deployment on Azure Kubernetes Service
