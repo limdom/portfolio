@@ -4,13 +4,13 @@
 - Master of Information and Data Science	| University of California, Berkeley (_December 2023_)	 			        		
 - B.S., Management (Finance & Accounting) | Boston College Carrol School of Management (_May 2012_)
 
-#### Programming: Python, R, Shell
-#### Supervised Machine Learning: Regressions, SVMs, Decision Trees & Ensemble Methods, Naïve Bayes, kNNs
-#### Unsupervised Machine Learning: PCA, Clustering, GMMs
-#### Deep Learning: CNN, RNN, LSTM, Transformers
-#### Statistical Modeling: Model Selection & Diagnostics
-#### Data Engineering: SQL/NoSQL Databases (i.e. PostgreSQL, Redis, Neo4j), Hadoop, Spark, AWS, GCP, Databricks, Snowflake
-
+#### Technical Skills:
+Programming: Python, R, Shell
+Supervised Machine Learning: Regressions, SVMs, Decision Trees & Ensemble Methods, Naïve Bayes, kNNs
+Unsupervised Machine Learning: PCA, Clustering, GMMs
+Deep Learning: CNN, RNN, LSTM, Transformers
+Statistical Modeling: Model Selection & Diagnostics
+Data Engineering: SQL/NoSQL Databases (i.e. PostgreSQL, Redis, Neo4j), Spark, AWS, GCP, Databricks, Snowflake
 
 ## Projects
 ### Sentiment Analysis Deployment on Azure Kubernetes Service
